@@ -31,6 +31,6 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white">
  <img src="https://img.shields.io/badge/Haskell-5e5086?logo=haskell&logoColor=white">
  <img src="https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white">
- <img src="https://img.shields.io/badge/powershell-4477CF?slogo=powershell&logoColor=white">
+ <img src="https://img.shields.io/badge/powershell-4477CF?logo=powershell&logoColor=white">
  <img src="https://img.shields.io/badge/shell-1ED760?logo=shell&logoColor=white">
 </div>
