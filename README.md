@@ -75,3 +75,6 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/threedotjs-000000?logo=threedotjs&logoColor=white">
  <img src="https://img.shields.io/badge/bootstrap-7952B3?logo=bootstrap&logoColor=white">
 </div>
+
+## Hobbies
+- cuenta de dibujos: [instagram](https://www.instagram.com/6dasarata/)
