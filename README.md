@@ -35,17 +35,17 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/powershell-4477CF?logo=powershell&logoColor=white">
  <img src="https://img.shields.io/badge/shell-1ED760?logo=shell&logoColor=white">
  <img src="https://img.shields.io/badge/latex-008080?logo=latex&logoColor=white">
- <img src="https://img.shields.io/badge/thymeleaf-#005F0F?logo=thymeleaf&logoColor=white">
+ <img src="https://img.shields.io/badge/thymeleaf-005F0F?logo=thymeleaf&logoColor=white">
 </div>
 
 ## applications
 <div>
  <img src="https://img.shields.io/badge/postman-FF6C37?logo=postman&logoColor=white">
- <img src="https://img.shields.io/badge/adobephotoshop-#31A8FF?logo=adobephotoshop&logoColor=white">
+ <img src="https://img.shields.io/badge/adobephotoshop-31A8FF?logo=adobephotoshop&logoColor=white">
 </div>
 
 ## bibliotecas
 
 <div>
- <img src="https://img.shields.io/badge/threedotjs-#000000?logo=threedotjs&logoColor=white">
+ <img src="https://img.shields.io/badge/threedotjs-000000?logo=threedotjs&logoColor=white">
 </div>
