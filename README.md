@@ -34,4 +34,5 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white">
  <img src="https://img.shields.io/badge/powershell-4477CF?logo=powershell&logoColor=white">
  <img src="https://img.shields.io/badge/shell-1ED760?logo=shell&logoColor=white">
+ <img src="https://img.shields.io/badge/latex-008080?logo=latex&logoColor=white">
 </div>
