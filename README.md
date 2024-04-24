@@ -17,11 +17,9 @@ Here are some ideas to get you started:
 
 ## my-stats
 <div>
- <p align='center'><a href="https://github.com/ADLG">
  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=CarlosNaranjoMx&theme=one_dark_pro"/>&nbsp&nbsp&nbsp
  <img height=160 align="center" src="https://streak-stats.demolab.com?user=CarlosNaranjoMx&theme=dark&date_format=j%20M%5B%20Y%5D"/><br><br>
  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CarlosNaranjoMx&layout=compact&langs_count=6&card_width=320&hide=c,perl,shell&theme=codeSTACKr"/>
- </a></p>
 </div>
 
 ## lenguajes
