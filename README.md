@@ -30,5 +30,5 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
  <img src="https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white">
  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
- <img src="https://img.shields.io/badge/powershell-20B2AA?style=for-the-badge?style=for-the-badge&logo=powershell&logoColor=white">
+ <img src="https://img.shields.io/badge/powershell-4477CF?style=for-the-badge?style=for-the-badge&logo=powershell&logoColor=white">
 </div>
