@@ -24,12 +24,13 @@ Here are some ideas to get you started:
 
 ## lenguages
 <div>
- <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
- <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
- <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
- <img src="https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white">
- <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
- <img src="https://img.shields.io/badge/powershell-4477CF?style=for-the-badge?style=for-the-badge&logo=powershell&logoColor=white">
- <img src="https://img.shields.io/badge/shell-1ED760?style=for-the-badge?style=for-the-badge&logo=shell&logoColor=white">
+ <!-- <img src="https://img.shields.io/badge/java-B07219.svg?style=for-the-badge?style=for-the-badge&logo=openjdk&logoColor=white"> -->
+ <img src="https://img.shields.io/badge/java-B07219?logo=openjdk&logoColor=white">
+ <img src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54">
+ <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
+ <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white">
+ <img src="https://img.shields.io/badge/Haskell-5e5086?logo=haskell&logoColor=white">
+ <img src="https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white">
+ <img src="https://img.shields.io/badge/powershell-4477CF?slogo=powershell&logoColor=white">
+ <img src="https://img.shields.io/badge/shell-1ED760?logo=shell&logoColor=white">
 </div>
