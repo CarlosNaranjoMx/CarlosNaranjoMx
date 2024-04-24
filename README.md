@@ -59,6 +59,8 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/electron-47848F?logo=electron&logoColor=white">
  <img src="https://img.shields.io/badge/filezilla-BF0000?logo=filezilla&logoColor=white">
  <img src="https://img.shields.io/badge/firebase-FFCA28?logo=firebase&logoColor=white">
+ <img src="https://img.shields.io/badge/fontawesome-538DD7?logo=fontawesome&logoColor=white">
+ <img src="https://img.shields.io/badge/gimp-5C5543?logo=gimp&logoColor=white">
 </div>
 
 ## IDE-s editores
