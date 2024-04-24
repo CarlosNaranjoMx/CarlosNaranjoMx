@@ -39,6 +39,11 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/thymeleaf-005F0F?logo=thymeleaf&logoColor=white">
 </div>
 
+## frameworks web
+<div>
+ <img src="https://img.shields.io/badge/django-092E20?logo=django&logoColor=white">
+</div>
+
 ## applications
 <div>
  <img src="https://img.shields.io/badge/postman-FF6C37?logo=postman&logoColor=white">
@@ -50,6 +55,10 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/blender-E87D0D?logo=blender&logoColor=white">
  <img src="https://img.shields.io/badge/burpsuite-FF6633?logo=burpsuite&logoColor=white">
  <img src="https://img.shields.io/badge/composer-885630?logo=composer&logoColor=white">
+ <img src="https://img.shields.io/badge/docker-2496ED?logo=docker&logoColor=white">
+ <img src="https://img.shields.io/badge/electron-47848F?logo=electron&logoColor=white">
+ <img src="https://img.shields.io/badge/filezilla-BF0000?logo=filezilla&logoColor=white">
+ <img src="https://img.shields.io/badge/firebase-FFCA28?logo=firebase&logoColor=white">
 </div>
 
 ## IDE-s editores
