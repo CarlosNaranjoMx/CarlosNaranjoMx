@@ -32,6 +32,7 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white">
  <img src="https://img.shields.io/badge/Haskell-5e5086?logo=haskell&logoColor=white">
  <img src="https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white">
+ <img src="https://img.shields.io/badge/csharp-512BD4?logo=csharp&logoColor=white">
  <img src="https://img.shields.io/badge/powershell-4477CF?logo=powershell&logoColor=white">
  <img src="https://img.shields.io/badge/shell-1ED760?logo=shell&logoColor=white">
  <img src="https://img.shields.io/badge/latex-008080?logo=latex&logoColor=white">
@@ -42,10 +43,24 @@ Here are some ideas to get you started:
 <div>
  <img src="https://img.shields.io/badge/postman-FF6C37?logo=postman&logoColor=white">
  <img src="https://img.shields.io/badge/adobephotoshop-31A8FF?logo=adobephotoshop&logoColor=white">
+ <img src="https://img.shields.io/badge/androidstudio-3DDC84?logo=androidstudio&logoColor=white">
+ <img src="https://img.shields.io/badge/apacheant-A81C7D?logo=apacheant&logoColor=white">
+ <img src="https://img.shields.io/badge/apachemaven-C71A36?logo=apachemaven&logoColor=white">
+ <img src="https://img.shields.io/badge/bitbucket-0052CC?logo=bitbucket&logoColor=white">
+ <img src="https://img.shields.io/badge/blender-E87D0D?logo=blender&logoColor=white">
+ <img src="https://img.shields.io/badge/burpsuite-FF6633?logo=burpsuite&logoColor=white">
+ <img src="https://img.shields.io/badge/composer-885630?logo=composer&logoColor=white">
+</div>
+
+## IDE-s editores
+<div>
+ <img src="https://img.shields.io/badge/apachenetbeanside-1B6AC6?logo=apachenetbeanside&logoColor=white">
+ <img src="https://img.shields.io/badge/codeblocks-41AD48?logo=codeblocks&logoColor=white">
 </div>
 
 ## bibliotecas
 
 <div>
  <img src="https://img.shields.io/badge/threedotjs-000000?logo=threedotjs&logoColor=white">
+ <img src="https://img.shields.io/badge/bootstrap-7952B3?logo=bootstrap&logoColor=white">
 </div>
