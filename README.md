@@ -42,6 +42,9 @@ Here are some ideas to get you started:
 ## frameworks web
 <div>
  <img src="https://img.shields.io/badge/django-092E20?logo=django&logoColor=white">
+ <img src="https://img.shields.io/badge/spring-6DB33F?logo=spring&logoColor=white">
+ <img src="https://img.shields.io/badge/laravel-FF2D20?logo=laravel&logoColor=white">
+ <img src="https://img.shields.io/badge/react-61DAFB?logo=react&logoColor=white">
 </div>
 
 ## applications
@@ -61,6 +64,7 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/firebase-FFCA28?logo=firebase&logoColor=white">
  <img src="https://img.shields.io/badge/fontawesome-538DD7?logo=fontawesome&logoColor=white">
  <img src="https://img.shields.io/badge/gimp-5C5543?logo=gimp&logoColor=white">
+ <img src="https://img.shields.io/badge/xampp-FB7A24?logo=xampp&logoColor=white">
 </div>
 
 ## IDE-s editores
