@@ -87,7 +87,7 @@ Here are some ideas to get you started:
 - [shaders](https://shaders-aadfd.web.app/)
 - [pandemic-expert](https://pandemic-expert-af96d.web.app/)
 - <img src="http://www.google.com/s2/favicons?domain=http://comcapla.org/index.php"> [comcapla](http://comcapla.org/index.php)
-- <img src="http://www.google.com/s2/favicons?domain=https://carlosnaranjomx.github.io/01_mkdocs/"> [documentacion](https://carlosnaranjomx.github.io/01_mkdocs/)
+- [documentacion](https://carlosnaranjomx.github.io/01_mkdocs/)
 
 ## repositories
 
