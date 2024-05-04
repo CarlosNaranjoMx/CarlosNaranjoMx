@@ -84,8 +84,8 @@ Here are some ideas to get you started:
 </div>
 
 ## my-sites
-[shaders](https://shaders-aadfd.web.app/)
-[pandemic-expert](https://pandemic-expert-af96d.web.app/)
+- [shaders](https://shaders-aadfd.web.app/)
+- [pandemic-expert](https://pandemic-expert-af96d.web.app/)
 
 ## repositories
 
