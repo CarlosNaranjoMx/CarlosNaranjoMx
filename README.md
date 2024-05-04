@@ -85,6 +85,7 @@ Here are some ideas to get you started:
 
 ## my-sites
 [shaders](https://shaders-aadfd.web.app/)
+[pandemic-expert](https://pandemic-expert-af96d.web.app/)
 
 ## repositories
 
