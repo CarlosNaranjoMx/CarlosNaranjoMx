@@ -81,6 +81,7 @@ Here are some ideas to get you started:
 <div>
  <img src="https://img.shields.io/badge/threedotjs-000000?logo=threedotjs&logoColor=white">
  <img src="https://img.shields.io/badge/bootstrap-7952B3?logo=bootstrap&logoColor=white">
+ <img src="https://img.shields.io/npm/v/npm.svg?logo=http://www.google.com/s2/favicons?domain=https://fontawesome.com/v4/icons/">
 </div>
 
 ## sites-develop-by-me
