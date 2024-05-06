@@ -81,7 +81,7 @@ Here are some ideas to get you started:
 <div>
  <img src="https://img.shields.io/badge/threedotjs-000000?logo=threedotjs&logoColor=white">
  <img src="https://img.shields.io/badge/bootstrap-7952B3?logo=bootstrap&logoColor=white">
- <img src="https://img.shields.io/npm/v/npm.svg?logo=http://www.google.com/s2/favicons?domain=https://fontawesome.com/v4/icons/">
+ <img src="https://img.shields.io/npm/v/npm.svg?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABa0lEQVQ4jcVTMYrCUBB9McFmQYJ+EP6CpZXhIwiLW6TzBl7BjVaeYc+gxbqSa9jZRBRL8QQ2CRIUFSEiyswWi4tiXHSbfTDNDPN4M29GG41Gr7Va7TMIAokHIKUMut3uGyzLmgLgv4RlWVOdiN6jKHoqlUo4HA6IouhuFUSUgBAiLBaLTETsed4Pu67rnM1m2TCMmwqEEGECAGazGXzfx3A4RKFQgOu6WCwWmM/nWK1WcF0X+XweACCEQLPZRKVSwSkRAuB+v8+NRoP3+z3HgYh4s9kwETEzs+M4LIQIjfOZTNNEMpmMnVfTNKRSqat84u6N3cD/ERBRPMF2u0W73YZt25BSolwuo9VqYbfbAQCYGYPBAL1e77vh3IVqtcqmacZ6nslk2LZtzuVyF3dw4cLxeMR6vY6VvFwu4XnedeGkQCnF6XT6oV8QQoRQSk0eaToPpdREG4/HL47jfARB8PzL0q8gpfQ7nU79C/T77KCOQvfNAAAAAElFTkSuQmCC">
 </div>
 
 ## sites-develop-by-me
