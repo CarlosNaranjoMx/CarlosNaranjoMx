@@ -96,10 +96,10 @@ Here are some ideas to get you started:
 <a href="https://github.com/CarlosNaranjoMx/01_mkdocs">
 	<img height=auto align="center" src="https://github-readme-stats.vercel.app/api/pin?username=CarlosNaranjoMx&repo=01_mkdocs&theme=chartreuse-dark"/>
 </a>
-<a href="https://github.com/CarlosNaranjoMx/01_mkdocs">
+<a href="https://github.com/CarlosNaranjoMx/02_html_css">
 	<img height=auto align="center" src="https://github-readme-stats.vercel.app/api/pin?username=CarlosNaranjoMx&repo=02_html_css&theme=chartreuse-dark"/>
 </a>
-<a href="https://github.com/CarlosNaranjoMx/01_mkdocs">
+<a href="https://github.com/CarlosNaranjoMx/01_webgl">
 	<img height=auto align="center" src="https://github-readme-stats.vercel.app/api/pin?username=CarlosNaranjoMx&repo=01_webgl&theme=chartreuse-dark"/>
 </a>
 
