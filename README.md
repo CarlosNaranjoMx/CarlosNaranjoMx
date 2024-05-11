@@ -55,9 +55,10 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/gimp-5C5543?logo=gimp&logoColor=white">
  <img src="https://img.shields.io/badge/blender-E87D0D?logo=blender&logoColor=white">
  <br />
- <img src="https://img.shields.io/badge/androidstudio-3DDC84?logo=androidstudio&logoColor=white">
  <img src="https://img.shields.io/badge/apacheant-A81C7D?logo=apacheant&logoColor=white">
  <img src="https://img.shields.io/badge/apachemaven-C71A36?logo=apachemaven&logoColor=white">
+ <br />
+ <img src="https://img.shields.io/badge/androidstudio-3DDC84?logo=androidstudio&logoColor=white">
  <img src="https://img.shields.io/badge/bitbucket-0052CC?logo=bitbucket&logoColor=white">
  <img src="https://img.shields.io/badge/burpsuite-FF6633?logo=burpsuite&logoColor=white">
  <img src="https://img.shields.io/badge/composer-885630?logo=composer&logoColor=white">
