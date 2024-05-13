@@ -32,8 +32,10 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=black">
  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white">
  <img src="https://img.shields.io/badge/Haskell-5e5086?logo=haskell&logoColor=white">
+ <br/>
  <img src="https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white">
  <img src="https://img.shields.io/badge/csharp-512BD4?logo=csharp&logoColor=white">
+ <br/>
  <img src="https://img.shields.io/badge/powershell-4477CF?logo=powershell&logoColor=white">
  <img src="https://img.shields.io/badge/shell-1ED760?logo=shell&logoColor=white">
  <img src="https://img.shields.io/badge/latex-008080?logo=latex&logoColor=white">
