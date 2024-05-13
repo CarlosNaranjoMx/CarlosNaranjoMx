@@ -60,14 +60,18 @@ Here are some ideas to get you started:
  <br />
  <img src="https://img.shields.io/badge/androidstudio-3DDC84?logo=androidstudio&logoColor=white">
  <img src="https://img.shields.io/badge/bitbucket-0052CC?logo=bitbucket&logoColor=white">
- <img src="https://img.shields.io/badge/burpsuite-FF6633?logo=burpsuite&logoColor=white">
+ 
  <img src="https://img.shields.io/badge/composer-885630?logo=composer&logoColor=white">
  <img src="https://img.shields.io/badge/docker-2496ED?logo=docker&logoColor=white">
  <img src="https://img.shields.io/badge/electron-47848F?logo=electron&logoColor=white">
- <img src="https://img.shields.io/badge/filezilla-BF0000?logo=filezilla&logoColor=white">
+ 
  <img src="https://img.shields.io/badge/firebase-FFCA28?logo=firebase&logoColor=white">
  <img src="https://img.shields.io/badge/fontawesome-538DD7?logo=fontawesome&logoColor=white">
  <img src="https://img.shields.io/badge/xampp-FB7A24?logo=xampp&logoColor=white">
+
+ <br/>
+ <img src="https://img.shields.io/badge/burpsuite-FF6633?logo=burpsuite&logoColor=white">
+ <img src="https://img.shields.io/badge/filezilla-BF0000?logo=filezilla&logoColor=white">
 </div>
 
 ## IDE-s editores
