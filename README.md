@@ -38,6 +38,7 @@ Here are some ideas to get you started:
  <br/>
  <img src="https://img.shields.io/badge/powershell-4477CF?logo=powershell&logoColor=white">
  <img src="https://img.shields.io/badge/shell-1ED760?logo=shell&logoColor=white">
+ <br/>
  <img src="https://img.shields.io/badge/latex-008080?logo=latex&logoColor=white">
  <img src="https://img.shields.io/badge/thymeleaf-005F0F?logo=thymeleaf&logoColor=white">
 </div>
