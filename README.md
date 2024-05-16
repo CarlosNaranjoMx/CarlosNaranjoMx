@@ -60,11 +60,12 @@ Here are some ideas to get you started:
  <br />
  <img src="https://img.shields.io/badge/apacheant-A81C7D?logo=apacheant&logoColor=white">
  <img src="https://img.shields.io/badge/apachemaven-C71A36?logo=apachemaven&logoColor=white">
+ <img src="https://img.shields.io/badge/composer-885630?logo=composer&logoColor=white">
  <br />
  <img src="https://img.shields.io/badge/androidstudio-3DDC84?logo=androidstudio&logoColor=white">
  <img src="https://img.shields.io/badge/bitbucket-0052CC?logo=bitbucket&logoColor=white">
  
- <img src="https://img.shields.io/badge/composer-885630?logo=composer&logoColor=white">
+ 
  <img src="https://img.shields.io/badge/docker-2496ED?logo=docker&logoColor=white">
  <img src="https://img.shields.io/badge/electron-47848F?logo=electron&logoColor=white">
  
