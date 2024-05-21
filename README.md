@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 <div height=160>
  <!-- <img src="https://img.shields.io/badge/java-B07219.svg?style=for-the-badge?style=for-the-badge&logo=openjdk&logoColor=white"> -->
  <img src="https://img.shields.io/badge/java-B07219?logo=openjdk&logoColor=white">
- <br/>
  <img src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54">
+ <br/>
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
  <img src="https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=black">
  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white">
