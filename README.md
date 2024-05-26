@@ -32,6 +32,7 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
  <img src="https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=black">
  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white">
+ <br/>
  <img src="https://img.shields.io/badge/Haskell-5e5086?logo=haskell&logoColor=white">
  <br/>
  <img src="https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white">
