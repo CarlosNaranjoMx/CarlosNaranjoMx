@@ -92,9 +92,9 @@ Here are some ideas to get you started:
 ## IDE-s editores
 <div>
  <img src="https://img.shields.io/badge/visualstudiocode-007ACC?logo=visualstudiocode&logoColor=white">
+ <img src="https://img.shields.io/badge/visualstudio-5C2D91?logo=visualstudio&logoColor=white">
  <img src="https://img.shields.io/badge/apachenetbeanside-1B6AC6?logo=apachenetbeanside&logoColor=white">
  <img src="https://img.shields.io/badge/codeblocks-41AD48?logo=codeblocks&logoColor=white">
- <img src="https://img.shields.io/badge/visualstudio-5C2D91?logo=visualstudio&logoColor=white">
 </div>
 
 ## bibliotecas
