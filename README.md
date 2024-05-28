@@ -53,6 +53,13 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/react-61DAFB?logo=react&logoColor=white">
 </div>
 
+## clouds
+<div>
+ <img src="https://img.shields.io/badge/oracle-F80000?logo=oracle&logoColor=white">
+ <img src="https://img.shields.io/badge/amazonwebservices-232F3E?logo=amazonwebservices&logoColor=white">
+</div>
+
+
 ## applications
 <div>
  <img src="https://img.shields.io/badge/oracle-F80000?logo=oracle&logoColor=white">
