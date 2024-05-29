@@ -65,6 +65,7 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/oracle-F80000?logo=oracle&logoColor=white">
  <br />
  <img src="https://img.shields.io/badge/postman-FF6C37?logo=postman&logoColor=white">
+ <br />
  <img src="https://img.shields.io/badge/adobephotoshop-31A8FF?logo=adobephotoshop&logoColor=white">
  <img src="https://img.shields.io/badge/gimp-5C5543?logo=gimp&logoColor=white">
  <img src="https://img.shields.io/badge/blender-E87D0D?logo=blender&logoColor=white">
