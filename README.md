@@ -79,6 +79,7 @@ Here are some ideas to get you started:
  
  
  <img src="https://img.shields.io/badge/docker-2496ED?logo=docker&logoColor=white">
+ <br/>
  <img src="https://img.shields.io/badge/electron-47848F?logo=electron&logoColor=white">
  
  <img src="https://img.shields.io/badge/firebase-FFCA28?logo=firebase&logoColor=white">
