@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 
 ## applications
 <div>
- <img src="https://img.shields.io/badge/oracle-F80000?logo=oracle&logoColor=white">
+ <img src="https://img.shields.io/badge/oracle sql developer-F80000?logo=oracle&logoColor=white">
  <br />
  <img src="https://img.shields.io/badge/postman-FF6C37?logo=postman&logoColor=white">
  <br />
