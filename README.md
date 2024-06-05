@@ -84,6 +84,7 @@ Here are some ideas to get you started:
  
  <img src="https://img.shields.io/badge/firebase-FFCA28?logo=firebase&logoColor=white">
  <img src="https://img.shields.io/badge/fontawesome-538DD7?logo=fontawesome&logoColor=white">
+ <br/>
  <img src="https://img.shields.io/badge/xampp-FB7A24?logo=xampp&logoColor=white">
 
  <br/>
