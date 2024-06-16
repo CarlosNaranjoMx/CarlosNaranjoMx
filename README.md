@@ -120,7 +120,8 @@ Here are some ideas to get you started:
 - [apis](https://carlosnaranjomx.github.io/02_html_css/)
 
 ## repositories
-## markdown:
+- markdown:
+<br/>
 <a href="https://github.com/CarlosNaranjoMx/01_mkdocs">
 	<img height=auto align="center" src="https://github-readme-stats.vercel.app/api/pin?username=CarlosNaranjoMx&repo=01_mkdocs&theme=chartreuse-dark"/>
 </a>
