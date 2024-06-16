@@ -126,7 +126,8 @@ Here are some ideas to get you started:
 	<img height=auto align="center" src="https://github-readme-stats.vercel.app/api/pin?username=CarlosNaranjoMx&repo=01_mkdocs&theme=chartreuse-dark"/>
 </a>
 
-html/css/js:
+- html/css/js:
+<br/>
 <a href="https://github.com/CarlosNaranjoMx/02_html_css">
 	<img height=auto align="center" src="https://github-readme-stats.vercel.app/api/pin?username=CarlosNaranjoMx&repo=02_html_css&theme=chartreuse-dark"/>
 </a>
