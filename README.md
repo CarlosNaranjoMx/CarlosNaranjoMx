@@ -116,7 +116,7 @@ Here are some ideas to get you started:
 - [pandemic-expert](https://pandemic-expert-af96d.web.app/)
 - <img src="http://www.google.com/s2/favicons?domain=http://comcapla.org/index.php"> [comcapla](http://comcapla.org/index.php)
 - [documentacion](https://carlosnaranjomx.github.io/01_mkdocs/)
-- <img src="http://www.google.com/s2/favicons?domain=https://github.com/CarlosNaranjoMx">[github-home](https://github.com/CarlosNaranjoMx)
+- <img src="http://www.google.com/s2/favicons?domain=https://github.com/CarlosNaranjoMx"> [github-home](https://github.com/CarlosNaranjoMx)
 - [apis](https://carlosnaranjomx.github.io/02_html_css/)
 
 ## repositories
