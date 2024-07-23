@@ -1,6 +1,6 @@
 ### Hi there 👋 Welcome
 
-Hi, my name is Carlos Naranjo
+Hi, my name is Carlos Naranjo, I studied computer science
 
 
 
