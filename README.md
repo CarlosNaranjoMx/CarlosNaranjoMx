@@ -2,7 +2,7 @@
 
 Hi!! , I'm Carlos Naranjo, I studied computer science.
 
-
+I love the programming 
 
 <!--
 **CarlosNaranjoMx/CarlosNaranjoMx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
