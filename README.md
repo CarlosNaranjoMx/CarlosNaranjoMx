@@ -15,7 +15,7 @@ Here are some ideas to get you  started:j
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-nuevo comentario
+nuevo comentario   
 añadiendo un nuevo comentario
 agregando más comentarios para un posible cambio
 pensando en nuevos cambios para esto
