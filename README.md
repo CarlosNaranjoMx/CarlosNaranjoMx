@@ -30,7 +30,7 @@ pensando en nuevos cambios para esto
   
 ## lenguages
 <div height=160>
- <!-- <img src="https://img.shields.io/badge/java-B07219.svg?style=for-the-badge?style=for-the-badge&logo=openjdk&logoColor=white"> -->
+ <!-- <img src="https://img.shields.io/badge/java-B07219.svg?style=for-the-badge?style=for-the-badge&logo=openjdk&logoColor=white"> -->  
  <img src="https://img.shields.io/badge/java-B07219?logo=openjdk&logoColor=white">
  <img src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54">
  <br/>
