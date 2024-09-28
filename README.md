@@ -147,6 +147,7 @@ pensando en nuevos cambios para esto
 <a href="https://github.com/CarlosNaranjoMx/WebGLCookTorrance">
 	<img height=auto align="center" src="https://github-readme-stats.vercel.app/api/pin?username=CarlosNaranjoMx&repo=WebGLCookTorrance&theme=chartreuse-dark"/>
 </a>
+## otros repositorios
 
 
 ## Hobbies
