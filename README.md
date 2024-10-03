@@ -1,4 +1,4 @@
-# Hi there 👋 Welcome  
+# Hi there, welcome! 
  
 ¡Hi! , I'm  Carlos Naranjo.         
 <!--    
