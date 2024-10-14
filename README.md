@@ -21,7 +21,7 @@ agregando más comentarios para un posible cambio
 pensando en nuevos cambios para esto
 -->
 
-##  Level Statistics 
+##  Level Statistics   
 <div align="center" >
  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=CarlosNaranjoMx&theme=one_dark_pro"/>&nbsp&nbsp&nbsp
  <img height=160 align="center" src="https://streak-stats.demolab.com?user=CarlosNaranjoMx&theme=dark&date_format=j%20M%5B%20Y%5D"/><br><br>
