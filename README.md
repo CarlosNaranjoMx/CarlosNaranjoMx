@@ -125,6 +125,7 @@ pensando en nuevos cambios para esto
 - [documentacion](https://carlosnaranjomx.github.io/01_mkdocs/)
 - <img src="http://www.google.com/s2/favicons?domain=https://github.com/CarlosNaranjoMx"> [github-home](https://github.com/CarlosNaranjoMx)
 - [apis](https://carlosnaranjomx.github.io/02_html_css/)
+- <img src="https://notas-efbcf.web.app/"> [cv](https://notas-efbcf.web.app/)
 
 ## repositories
 - markdown:
