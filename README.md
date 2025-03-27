@@ -1,7 +1,7 @@
 # ¡ Hi there, welcome to my girhub !  
 # Hola, Bienvenidos  
 
-¡Hi! , I'm  Carlos Naranjo      
+¡Hi! , I'm  Carlos Naranjo        
     
 <!--      
 **CarlosNaranjoMx/CarlosNaranjoMx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
