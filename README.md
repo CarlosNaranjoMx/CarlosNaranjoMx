@@ -151,7 +151,24 @@ pensando en nuevos cambios para esto
 	<img height=auto align="center" src="https://github-readme-stats.vercel.app/api/pin?username=CarlosNaranjoMx&repo=WebGLCookTorrance&theme=chartreuse-dark"/>
 </a>
 ## otros repositorios
-
+<a href="https://github.com/CarlosNaranjoMx/docs">
+	<img height=auto align="center" src="https://github-readme-stats.vercel.app/api/pin?username=CarlosNaranjoMx&repo=docs&theme=chartreuse-dark"/>
+</a>
+<a href="https://github.com/CarlosNaranjoMx/ProgramacionCSharp">
+	<img height=auto align="center" src="https://github-readme-stats.vercel.app/api/pin?username=CarlosNaranjoMx&repo=ProgramacionCSharp&theme=chartreuse-dark"/>
+</a>
+<a href="https://github.com/CarlosNaranjoMx/python_public">
+	<img height=auto align="center" src="https://github-readme-stats.vercel.app/api/pin?username=CarlosNaranjoMx&repo=python_public&theme=chartreuse-dark"/>
+</a>
+<a href="https://github.com/CarlosNaranjoMx/jhipster_windows">
+	<img height=auto align="center" src="https://github-readme-stats.vercel.app/api/pin?username=CarlosNaranjoMx&repo=jhipster_windows&theme=chartreuse-dark"/>
+</a>
+<a href="https://github.com/CarlosNaranjoMx/12_python_files_size">
+	<img height=auto align="center" src="https://github-readme-stats.vercel.app/api/pin?username=CarlosNaranjoMx&repo=12_python_files_size&theme=chartreuse-dark"/>
+</a>
+<a href="https://github.com/CarlosNaranjoMx/CaptureUI">
+	<img height=auto align="center" src="https://github-readme-stats.vercel.app/api/pin?username=CarlosNaranjoMx&repo=CaptureUI&theme=chartreuse-dark"/>
+</a>
 
 ## Hobbies
 - cuenta de dibujos: [instagram](https://www.instagram.com/6dasarata/)
