@@ -30,6 +30,8 @@ pensando en nuevos cambios para esto
  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CarlosNaranjoMx&layout=compact&langs_count=6&card_width=320&hide=perl,c,shell&theme=codeSTACKr"/>
 </div>
 
+<br>
+
 <table><tr>
 <td valign="top">
 
@@ -66,14 +68,16 @@ pensando en nuevos cambios para esto
 </div>
 
 </td>
-</tr></table>
+<td valign="top">
 
 ## clouds
 <div>
  <img src="https://img.shields.io/badge/oracle-F80000?logo=oracle&logoColor=white">
  <img src="https://img.shields.io/badge/amazonwebservices-232F3E?logo=amazonwebservices&logoColor=white">
-</div> 
+</div>
 
+</td>
+</tr></table>
 
 ## applications
 <div>
