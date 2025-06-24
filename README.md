@@ -29,10 +29,12 @@ pensando en nuevos cambios para esto
  <img height=160 align="center" src="https://streak-stats.demolab.com?user=CarlosNaranjoMx&theme=dark&date_format=j%20M%5B%20Y%5D"/><br><br>
  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CarlosNaranjoMx&layout=compact&langs_count=6&card_width=320&hide=perl,c,shell&theme=codeSTACKr"/>
 </div>
-  
+
+<table><tr>
+<td valign="top">
+
 ## lenguages
 <div height=160>
- <!-- <img src="https://img.shields.io/badge/java-B07219.svg?style=for-the-badge?style=for-the-badge&logo=openjdk&logoColor=white"> -->  
  <img src="https://img.shields.io/badge/java-B07219?logo=openjdk&logoColor=white">
  <img src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54">
  <br/>
@@ -52,6 +54,9 @@ pensando en nuevos cambios para esto
  <img src="https://img.shields.io/badge/thymeleaf-005F0F?logo=thymeleaf&logoColor=white">
 </div>
 
+</td>
+<td valign="top">
+
 ## frameworks-web
 <div>
  <img src="https://img.shields.io/badge/django-092E20?logo=django&logoColor=white">
@@ -59,6 +64,9 @@ pensando en nuevos cambios para esto
  <img src="https://img.shields.io/badge/laravel-FF2D20?logo=laravel&logoColor=white">
  <img src="https://img.shields.io/badge/react-61DAFB?logo=react&logoColor=white">
 </div>
+
+</td>
+</tr></table>
 
 ## clouds
 <div>
@@ -159,7 +167,6 @@ pensando en nuevos cambios para esto
 	<img height=auto align="center" src="https://github-readme-stats.vercel.app/api/pin?username=CarlosNaranjoMx&repo=WebGLCookTorrance&theme=chartreuse-dark"/>
 </a>
 </div>
-## otros repositorios
 <div align="center">
 <p>Wiki personal y documentación variada:</p>
 <a href="https://github.com/CarlosNaranjoMx/docs">
