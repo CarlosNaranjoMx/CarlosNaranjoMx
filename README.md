@@ -79,6 +79,11 @@ pensando en nuevos cambios para esto
 </td>
 </tr></table>
 
+<br>
+
+<table><tr>
+<td valign="top">
+
 ## applications
 <div>
  <img src="https://img.shields.io/badge/oracle sql developer-F80000?logo=oracle&logoColor=white">
@@ -112,6 +117,9 @@ pensando en nuevos cambios para esto
  <img src="https://img.shields.io/badge/filezilla-BF0000?logo=filezilla&logoColor=white">
 </div>
 
+</td>
+<td valign="top">
+
 ## IDE-s editores
 <div>
  <img src="https://img.shields.io/badge/visualstudiocode-007ACC?logo=visualstudiocode&logoColor=white">
@@ -121,14 +129,19 @@ pensando en nuevos cambios para esto
 	
 </div>
 
-## bibliotecas
+</td>
+<td valign="top">
 
+## bibliotecas
 <div>
  <img src="https://img.shields.io/badge/threedotjs-000000?logo=threedotjs&logoColor=white">
  <img src="https://img.shields.io/badge/bootstrap-7952B3?logo=bootstrap&logoColor=white">
  <img src="https://img.shields.io/npm/v/npm.svg?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABa0lEQVQ4jcVTMYrCUBB9McFmQYJ+EP6CpZXhIwiLW6TzBl7BjVaeYc+gxbqSa9jZRBRL8QQ2CRIUFSEiyswWi4tiXHSbfTDNDPN4M29GG41Gr7Va7TMIAokHIKUMut3uGyzLmgLgv4RlWVOdiN6jKHoqlUo4HA6IouhuFUSUgBAiLBaLTETsed4Pu67rnM1m2TCMmwqEEGECAGazGXzfx3A4RKFQgOu6WCwWmM/nWK1WcF0X+XweACCEQLPZRKVSwSkRAuB+v8+NRoP3+z3HgYh4s9kwETEzs+M4LIQIjfOZTNNEMpmMnVfTNKRSqat84u6N3cD/ERBRPMF2u0W73YZt25BSolwuo9VqYbfbAQCYGYPBAL1e77vh3IVqtcqmacZ6nslk2LZtzuVyF3dw4cLxeMR6vY6VvFwu4XnedeGkQCnF6XT6oV8QQoRQSk0eaToPpdREG4/HL47jfARB8PzL0q8gpfQ7nU79C/T77KCOQvfNAAAAAElFTkSuQmCC">
 <img src="https://img.shields.io/badge/selenium?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAuElEQVQ4jZ2RMQ6CIQyFH9UY76CdnDyHd1Bu4uruGZytHsBzOKqJEzf4x9+EOEEAgYCdKO37+goK54UoqB06w2oDABfqFQZiAMBfABdKlv0AN52E2xyEdt35Obz8XZMDqw0mNPP5+rZpBzirn+07youA0HIKScUAMM0J04cqiSNArTH695YVam7SFT2AhEHCmF9X2cbc20QrWG1AwhjtCBKu2s4CSlNS2P5+wPFx+gXUplRrxUpjfAFdG0tb4YZd9gAAAABJRU5ErkJggg==">
 </div>
+
+</td>
+</tr></table>
 
 ## sites-develop-by-me
 - [shaders](https://shaders-aadfd.web.app/)
