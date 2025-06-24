@@ -129,46 +129,75 @@ pensando en nuevos cambios para esto
 
 ## repositories
 - markdown:
-<br/>
+<div align="center">
 <a href="https://github.com/CarlosNaranjoMx/01_mkdocs">
 	<img height=auto align="center" src="https://github-readme-stats.vercel.app/api/pin?username=CarlosNaranjoMx&repo=01_mkdocs&theme=chartreuse-dark"/>
 </a>
+<p>Documentación técnica y tutoriales usando MkDocs.</p>
+</div>
 
 - html/css/js:
-<br/>
+<div align="center">
 <a href="https://github.com/CarlosNaranjoMx/02_html_css">
 	<img height=auto align="center" src="https://github-readme-stats.vercel.app/api/pin?username=CarlosNaranjoMx&repo=02_html_css&theme=chartreuse-dark"/>
 </a>
+<p>Ejercicios y ejemplos de HTML, CSS y JavaScript.</p>
+</div>
+<div align="center">
 <a href="https://github.com/CarlosNaranjoMx/Megaman">
 	<img height=auto align="center" src="https://github-readme-stats.vercel.app/api/pin?username=CarlosNaranjoMx&repo=Megaman&theme=chartreuse-dark"/>
 </a>
-
+<p>Proyecto de videojuego inspirado en Megaman.</p>
+</div>
+<div align="center">
 <a href="https://github.com/CarlosNaranjoMx/01_webgl">
 	<img height=auto align="center" src="https://github-readme-stats.vercel.app/api/pin?username=CarlosNaranjoMx&repo=01_webgl&theme=chartreuse-dark"/>
 </a>
-
+<p>Ejemplos y experimentos con WebGL.</p>
+</div>
+<div align="center">
 <a href="https://github.com/CarlosNaranjoMx/WebGLCookTorrance">
 	<img height=auto align="center" src="https://github-readme-stats.vercel.app/api/pin?username=CarlosNaranjoMx&repo=WebGLCookTorrance&theme=chartreuse-dark"/>
 </a>
+<p>Simulación de materiales y luces con el modelo Cook-Torrance en WebGL.</p>
+</div>
 ## otros repositorios
+<div align="center">
 <a href="https://github.com/CarlosNaranjoMx/docs">
 	<img height=auto align="center" src="https://github-readme-stats.vercel.app/api/pin?username=CarlosNaranjoMx&repo=docs&theme=chartreuse-dark"/>
 </a>
+<p>Wiki personal y documentación variada.</p>
+</div>
+<div align="center">
 <a href="https://github.com/CarlosNaranjoMx/ProgramacionCSharp">
 	<img height=auto align="center" src="https://github-readme-stats.vercel.app/api/pin?username=CarlosNaranjoMx&repo=ProgramacionCSharp&theme=chartreuse-dark"/>
 </a>
+<p>Ejercicios y ejemplos en C#.</p>
+</div>
+<div align="center">
 <a href="https://github.com/CarlosNaranjoMx/python_public">
 	<img height=auto align="center" src="https://github-readme-stats.vercel.app/api/pin?username=CarlosNaranjoMx&repo=python_public&theme=chartreuse-dark"/>
 </a>
+<p>Scripts y proyectos públicos en Python.</p>
+</div>
+<div align="center">
 <a href="https://github.com/CarlosNaranjoMx/jhipster_windows">
 	<img height=auto align="center" src="https://github-readme-stats.vercel.app/api/pin?username=CarlosNaranjoMx&repo=jhipster_windows&theme=chartreuse-dark"/>
 </a>
+<p>Recursos y scripts para automatizar JHipster en Windows.</p>
+</div>
+<div align="center">
 <a href="https://github.com/CarlosNaranjoMx/12_python_files_size">
 	<img height=auto align="center" src="https://github-readme-stats.vercel.app/api/pin?username=CarlosNaranjoMx&repo=12_python_files_size&theme=chartreuse-dark"/>
 </a>
+<p>Herramienta para calcular el tamaño de archivos en Python.</p>
+</div>
+<div align="center">
 <a href="https://github.com/CarlosNaranjoMx/CaptureUI">
 	<img height=auto align="center" src="https://github-readme-stats.vercel.app/api/pin?username=CarlosNaranjoMx&repo=CaptureUI&theme=chartreuse-dark"/>
 </a>
+<p>Interfaz gráfica para captura de pantalla y anotaciones.</p>
+</div>
 
 ## Hobbies
 - cuenta de dibujos: [instagram](https://www.instagram.com/6dasarata/)
