@@ -32,7 +32,8 @@ pensando en nuevos cambios para esto
 
 <br>
 
-<table><tr>
+<table>
+<tr>
 <td valign="top">
 
 ## lenguages
@@ -77,11 +78,8 @@ pensando en nuevos cambios para esto
 </div>
 
 </td>
-</tr></table>
-
-<br>
-
-<table><tr>
+</tr>
+<tr>
 <td valign="top">
 
 ## applications
@@ -141,7 +139,8 @@ pensando en nuevos cambios para esto
 </div>
 
 </td>
-</tr></table>
+</tr>
+</table>
 
 ## sites-develop-by-me
 - [shaders](https://shaders-aadfd.web.app/)
