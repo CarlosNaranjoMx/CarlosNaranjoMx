@@ -8,10 +8,10 @@
        
 Here are some ideas to get you  started:j
          
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I'm currently working on ...
+- 🌱 I'm currently learning ...
+- 👯 I'm looking to collaborate on ...
+- 🤔 I'm looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...   
 - 😄 Pronouns: ...
@@ -153,6 +153,7 @@ pensando en nuevos cambios para esto
 - <img src="https://notas-efbcf.web.app/"> [cv](https://notas-efbcf.web.app/)
 
 ## repositories
+
 <div align="center">
 <p>Documentación técnica y tutoriales usando MkDocs:</p>
 <a href="https://github.com/CarlosNaranjoMx/01_mkdocs">
@@ -166,58 +167,179 @@ pensando en nuevos cambios para esto
 	<img height=auto align="center" src="https://github-readme-stats.vercel.app/api/pin?username=CarlosNaranjoMx&repo=02_html_css&theme=chartreuse-dark"/>
 </a>
 </div>
+
 <div align="center">
 <p>Proyecto de videojuego inspirado en Megaman:</p>
 <a href="https://github.com/CarlosNaranjoMx/Megaman">
 	<img height=auto align="center" src="https://github-readme-stats.vercel.app/api/pin?username=CarlosNaranjoMx&repo=Megaman&theme=chartreuse-dark"/>
 </a>
 </div>
+
 <div align="center">
 <p>Ejemplos y experimentos con WebGL:</p>
 <a href="https://github.com/CarlosNaranjoMx/01_webgl">
 	<img height=auto align="center" src="https://github-readme-stats.vercel.app/api/pin?username=CarlosNaranjoMx&repo=01_webgl&theme=chartreuse-dark"/>
 </a>
 </div>
+
 <div align="center">
 <p>Simulación de materiales y luces con el modelo Cook-Torrance en WebGL:</p>
 <a href="https://github.com/CarlosNaranjoMx/WebGLCookTorrance">
 	<img height=auto align="center" src="https://github-readme-stats.vercel.app/api/pin?username=CarlosNaranjoMx&repo=WebGLCookTorrance&theme=chartreuse-dark"/>
 </a>
 </div>
+
+<div align="center">
+<p>Iluminación WebGL — modelos de luz y materiales:</p>
+<a href="https://github.com/CarlosNaranjoMx/WebglIlumination">
+	<img height=auto align="center" src="https://github-readme-stats.vercel.app/api/pin?username=CarlosNaranjoMx&repo=WebglIlumination&theme=chartreuse-dark"/>
+</a>
+</div>
+
 <div align="center">
 <p>Wiki personal y documentación variada:</p>
 <a href="https://github.com/CarlosNaranjoMx/docs">
 	<img height=auto align="center" src="https://github-readme-stats.vercel.app/api/pin?username=CarlosNaranjoMx&repo=docs&theme=chartreuse-dark"/>
 </a>
 </div>
+
 <div align="center">
 <p>Ejercicios y ejemplos en C#:</p>
 <a href="https://github.com/CarlosNaranjoMx/ProgramacionCSharp">
 	<img height=auto align="center" src="https://github-readme-stats.vercel.app/api/pin?username=CarlosNaranjoMx&repo=ProgramacionCSharp&theme=chartreuse-dark"/>
 </a>
 </div>
+
+<div align="center">
+<p>Proyecto ASP.NET MVC — aplicación web Bulky:</p>
+<a href="https://github.com/CarlosNaranjoMx/BulkyWeb">
+	<img height=auto align="center" src="https://github-readme-stats.vercel.app/api/pin?username=CarlosNaranjoMx&repo=BulkyWeb&theme=chartreuse-dark"/>
+</a>
+</div>
+
 <div align="center">
 <p>Scripts y proyectos públicos en Python:</p>
 <a href="https://github.com/CarlosNaranjoMx/python_public">
 	<img height=auto align="center" src="https://github-readme-stats.vercel.app/api/pin?username=CarlosNaranjoMx&repo=python_public&theme=chartreuse-dark"/>
 </a>
 </div>
+
 <div align="center">
 <p>Recursos y scripts para automatizar JHipster en Windows:</p>
 <a href="https://github.com/CarlosNaranjoMx/jhipster_windows">
 	<img height=auto align="center" src="https://github-readme-stats.vercel.app/api/pin?username=CarlosNaranjoMx&repo=jhipster_windows&theme=chartreuse-dark"/>
 </a>
 </div>
+
 <div align="center">
 <p>Herramienta para calcular el tamaño de archivos en Python:</p>
 <a href="https://github.com/CarlosNaranjoMx/12_python_files_size">
 	<img height=auto align="center" src="https://github-readme-stats.vercel.app/api/pin?username=CarlosNaranjoMx&repo=12_python_files_size&theme=chartreuse-dark"/>
 </a>
 </div>
+
 <div align="center">
 <p>Interfaz gráfica para captura de pantalla y anotaciones:</p>
 <a href="https://github.com/CarlosNaranjoMx/CaptureUI">
 	<img height=auto align="center" src="https://github-readme-stats.vercel.app/api/pin?username=CarlosNaranjoMx&repo=CaptureUI&theme=chartreuse-dark"/>
+</a>
+</div>
+
+<div align="center">
+<p>Snippets para Visual Studio Code en múltiples lenguajes:</p>
+<a href="https://github.com/CarlosNaranjoMx/snippets">
+	<img height=auto align="center" src="https://github-readme-stats.vercel.app/api/pin?username=CarlosNaranjoMx&repo=snippets&theme=chartreuse-dark"/>
+</a>
+</div>
+
+<div align="center">
+<p>Problema de las ocho reinas — algoritmo de backtracking:</p>
+<a href="https://github.com/CarlosNaranjoMx/OchoReinas">
+	<img height=auto align="center" src="https://github-readme-stats.vercel.app/api/pin?username=CarlosNaranjoMx&repo=OchoReinas&theme=chartreuse-dark"/>
+</a>
+</div>
+
+<div align="center">
+<p>Auto backup de archivos Android en la PC con PowerShell:</p>
+<a href="https://github.com/CarlosNaranjoMx/01_powershell_copy">
+	<img height=auto align="center" src="https://github-readme-stats.vercel.app/api/pin?username=CarlosNaranjoMx&repo=01_powershell_copy&theme=chartreuse-dark"/>
+</a>
+</div>
+
+<div align="center">
+<p>Apuntes y ejercicios de Lógica Computacional 2021-1:</p>
+<a href="https://github.com/CarlosNaranjoMx/LogicaComputacional2021-1">
+	<img height=auto align="center" src="https://github-readme-stats.vercel.app/api/pin?username=CarlosNaranjoMx&repo=LogicaComputacional2021-1&theme=chartreuse-dark"/>
+</a>
+</div>
+
+<div align="center">
+<p>Documentación y ejemplos de Microsoft SQL Server:</p>
+<a href="https://github.com/CarlosNaranjoMx/MSSQL">
+	<img height=auto align="center" src="https://github-readme-stats.vercel.app/api/pin?username=CarlosNaranjoMx&repo=MSSQL&theme=chartreuse-dark"/>
+</a>
+</div>
+
+<div align="center">
+<p>Guía y comandos esenciales de Firebase:</p>
+<a href="https://github.com/CarlosNaranjoMx/firebase_readme">
+	<img height=auto align="center" src="https://github-readme-stats.vercel.app/api/pin?username=CarlosNaranjoMx&repo=firebase_readme&theme=chartreuse-dark"/>
+</a>
+</div>
+
+<div align="center">
+<p>Menú HTML para Safos Café publicado en GitHub Pages:</p>
+<a href="https://github.com/CarlosNaranjoMx/safos_cafe">
+	<img height=auto align="center" src="https://github-readme-stats.vercel.app/api/pin?username=CarlosNaranjoMx&repo=safos_cafe&theme=chartreuse-dark"/>
+</a>
+</div>
+
+<div align="center">
+<p>Sitio web de Safos Café:</p>
+<a href="https://github.com/CarlosNaranjoMx/safos-cafe-website">
+	<img height=auto align="center" src="https://github-readme-stats.vercel.app/api/pin?username=CarlosNaranjoMx&repo=safos-cafe-website&theme=chartreuse-dark"/>
+</a>
+</div>
+
+<div align="center">
+<p>Herramienta para quitar el fondo de imágenes con Python:</p>
+<a href="https://github.com/CarlosNaranjoMx/51_quitar_fondo_imagenes">
+	<img height=auto align="center" src="https://github-readme-stats.vercel.app/api/pin?username=CarlosNaranjoMx&repo=51_quitar_fondo_imagenes&theme=chartreuse-dark"/>
+</a>
+</div>
+
+<div align="center">
+<p>Solucionario de Álgebra Lineal — Addison-Wesley:</p>
+<a href="https://github.com/CarlosNaranjoMx/algebra_lineal_01_ADDISON-WESLEY">
+	<img height=auto align="center" src="https://github-readme-stats.vercel.app/api/pin?username=CarlosNaranjoMx&repo=algebra_lineal_01_ADDISON-WESLEY&theme=chartreuse-dark"/>
+</a>
+</div>
+
+<div align="center">
+<p>Identidad del coseno de la suma, matrices de rotación y Fibonacci:</p>
+<a href="https://github.com/CarlosNaranjoMx/matematicas-coseno-suma">
+	<img height=auto align="center" src="https://github-readme-stats.vercel.app/api/pin?username=CarlosNaranjoMx&repo=matematicas-coseno-suma&theme=chartreuse-dark"/>
+</a>
+</div>
+
+<div align="center">
+<p>Extensión Chrome para administración de marcadores:</p>
+<a href="https://github.com/CarlosNaranjoMx/Extension_chrome_administracion_marcadores">
+	<img height=auto align="center" src="https://github-readme-stats.vercel.app/api/pin?username=CarlosNaranjoMx&repo=Extension_chrome_administracion_marcadores&theme=chartreuse-dark"/>
+</a>
+</div>
+
+<div align="center">
+<p>Página web corporativa de Kattvan:</p>
+<a href="https://github.com/CarlosNaranjoMx/kattvan-company-website">
+	<img height=auto align="center" src="https://github-readme-stats.vercel.app/api/pin?username=CarlosNaranjoMx&repo=kattvan-company-website&theme=chartreuse-dark"/>
+</a>
+</div>
+
+<div align="center">
+<p>Kattvan Medical v3 — app web para salud personal y de mascotas:</p>
+<a href="https://github.com/CarlosNaranjoMx/FlutterFlow-Kattvan-Medical-v3">
+	<img height=auto align="center" src="https://github-readme-stats.vercel.app/api/pin?username=CarlosNaranjoMx&repo=FlutterFlow-Kattvan-Medical-v3&theme=chartreuse-dark"/>
 </a>
 </div>
 
