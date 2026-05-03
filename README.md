@@ -123,7 +123,7 @@ pensando en nuevos cambios para esto
  <img src="https://img.shields.io/badge/visualstudiocode-007ACC?logo=visualstudiocode&logoColor=white">
  <img src="https://img.shields.io/badge/visualstudio-5C2D91?logo=visualstudio&logoColor=white">
  <img src="https://img.shields.io/badge/apachenetbeanside-1B6AC6?logo=apachenetbeanside&logoColor=white">
- <img src="https://img src="https://img.shields.io/badge/codeblocks-41AD48?logo=codeblocks&logoColor=white">
+ <img src="https://img.shields.io/badge/codeblocks-41AD48?logo=codeblocks&logoColor=white">
 
 </div>
 
@@ -170,6 +170,10 @@ pensando en nuevos cambios para esto
         <img height=auto align="center" src="https://github-readme-stats-fast.vercel.app/api/pin?username=CarlosNaranjoMx&repo=WebGLCookTorrance&theme=chartreuse-dark"/>
 </a>
 
+<a href="https://github.com/CarlosNaranjoMx/WebGLCookTorrance">
+        <img height=auto align="center" src="https://github.com/CarlosNaranjoMx/StickersMaker?username=CarlosNaranjoMx&repo=StickersMaker&theme=chartreuse-dark"/>
+</a>
+
 ## otros repositorios
 <a href="https://github.com/CarlosNaranjoMx/docs">
         <img height=auto align="center" src="https://github-readme-stats-fast.vercel.app/api/pin?username=CarlosNaranjoMx&repo=docs&theme=chartreuse-dark"/>
@@ -181,13 +185,13 @@ pensando en nuevos cambios para esto
         <img height=auto align="center" src="https://github-readme-stats-fast.vercel.app/api/pin?username=CarlosNaranjoMx&repo=python_public&theme=chartreuse-dark"/>
 </a>
 <a href="https://github.com/CarlosNaranjoMx/jhipster_windows">
-        <img height=auto align="center" src="https://github.com/CarlosNaranjoMx/jhipster_windows&theme=chartreuse-dark"/>
+        <img height=auto align="center" src="https://github-readme-stats-fast.vercel.app/api/pin?username=CarlosNaranjoMx&repo=jhipster_windows&theme=chartreuse-dark"/>
 </a>
 <a href="https://github.com/CarlosNaranjoMx/12_python_files_size">
-        <img height=auto align="center" src="https://github.com/CarlosNaranjoMx/12_python_files_size&theme=chartreuse-dark"/>
+        <img height=auto align="center" src="https://github-readme-stats-fast.vercel.app/api/pin?username=CarlosNaranjoMx&repo=12_python_files_size&theme=chartreuse-dark"/>
 </a>
 <a href="https://github.com/CarlosNaranjoMx/CaptureUI">
-        <img height=auto align="center" src="https://github.com/CarlosNaranjoMx/CaptureUI&theme=chartreuse-dark"/>
+        <img height=auto align="center" src="https://github-readme-stats-fast.vercel.app/api/pin?username=CarlosNaranjoMx&repo=CaptureUI&theme=chartreuse-dark"/>
 </a>
 <a href="https://github.com/CarlosNaranjoMx/nvidia-monitoring">
         <img height=auto align="center" src="https://github.com/CarlosNaranjoMx/nvidia-monitoring&theme=chartreuse-dark"/>
@@ -195,6 +199,3 @@ pensando en nuevos cambios para esto
 
 ## Hobbies
 - cuenta de dibujos: [instagram](https://www.instagram.com/6dasarata/)
-
-## Proyecto relacionado
-- [StickersMaker](https://github.com/CarlosNaranjoMx/StickersMaker) - repositorio para el script de quitar fondo y separar objetos.
