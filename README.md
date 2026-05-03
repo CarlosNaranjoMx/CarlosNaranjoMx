@@ -170,8 +170,8 @@ pensando en nuevos cambios para esto
         <img height=auto align="center" src="https://github-readme-stats-fast.vercel.app/api/pin?username=CarlosNaranjoMx&repo=WebGLCookTorrance&theme=chartreuse-dark"/>
 </a>
 
-<a href="https://github.com/CarlosNaranjoMx/WebGLCookTorrance">
-        <img height=auto align="center" src="https://github.com/CarlosNaranjoMx/StickersMaker?username=CarlosNaranjoMx&repo=StickersMaker&theme=chartreuse-dark"/>
+<a href="https://github.com/CarlosNaranjoMx/StickersMaker">
+        <img height=auto align="center" src="https://github-readme-stats-fast.vercel.app/api/pin?username=CarlosNaranjoMx&repo=StickersMaker&theme=chartreuse-dark"/>
 </a>
 
 ## otros repositorios
@@ -194,7 +194,7 @@ pensando en nuevos cambios para esto
         <img height=auto align="center" src="https://github-readme-stats-fast.vercel.app/api/pin?username=CarlosNaranjoMx&repo=CaptureUI&theme=chartreuse-dark"/>
 </a>
 <a href="https://github.com/CarlosNaranjoMx/nvidia-monitoring">
-        <img height=auto align="center" src="https://github.com/CarlosNaranjoMx/nvidia-monitoring&theme=chartreuse-dark"/>
+        <img height=auto align="center" src="https://github-readme-stats-fast.vercel.app/api/pin?username=CarlosNaranjoMx&repo=nvidia-monitoring&theme=chartreuse-dark"/>
 </a>
 
 ## Hobbies
