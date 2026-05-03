@@ -107,7 +107,7 @@ pensando en nuevos cambios para esto
  
  <img src="https://img.shields.io/badge/firebase-FFCA28?logo=firebase&logoColor=white">
  <img src="https://img.shields.io/badge/fontawesome-538DD7?logo=fontawesome&logoColor=white">
- <br/>
+ <br />
  <img src="https://img.shields.io/badge/xampp-FB7A24?logo=xampp&logoColor=white">
 
  <br/>
@@ -124,7 +124,7 @@ pensando en nuevos cambios para esto
  <img src="https://img.shields.io/badge/visualstudio-5C2D91?logo=visualstudio&logoColor=white">
  <img src="https://img.shields.io/badge/apachenetbeanside-1B6AC6?logo=apachenetbeanside&logoColor=white">
  <img src="https://img.shields.io/badge/codeblocks-41AD48?logo=codeblocks&logoColor=white">
-	
+
 </div>
 
 </td>
@@ -155,39 +155,42 @@ pensando en nuevos cambios para esto
 
 ## repositories
 <a href="https://github.com/CarlosNaranjoMx/01_mkdocs">
-	<img height=auto align="center" src="https://github-readme-stats-fast.vercel.app/api/pin?username=CarlosNaranjoMx&repo=01_mkdocs&theme=chartreuse-dark"/>
+        <img height=auto align="center" src="https://github-readme-stats-fast.vercel.app/api/pin?username=CarlosNaranjoMx&repo=01_mkdocs&theme=chartreuse-dark"/>
 </a>
 <a href="https://github.com/CarlosNaranjoMx/02_html_css">
-	<img height=auto align="center" src="https://github-readme-stats-fast.vercel.app/api/pin?username=CarlosNaranjoMx&repo=02_html_css&theme=chartreuse-dark"/>
+        <img height=auto align="center" src="https://github-readme-stats-fast.vercel.app/api/pin?username=CarlosNaranjoMx&repo=02_html_css&theme=chartreuse-dark"/>
 </a>
 <a href="https://github.com/CarlosNaranjoMx/Megaman">
-	<img height=auto align="center" src="https://github-readme-stats-fast.vercel.app/api/pin?username=CarlosNaranjoMx&repo=Megaman&theme=chartreuse-dark"/>
+        <img height=auto align="center" src="https://github-readme-stats-fast.vercel.app/api/pin?username=CarlosNaranjoMx&repo=Megaman&theme=chartreuse-dark"/>
 </a>
 <a href="https://github.com/CarlosNaranjoMx/01_webgl">
-	<img height=auto align="center" src="https://github-readme-stats-fast.vercel.app/api/pin?username=CarlosNaranjoMx&repo=01_webgl&theme=chartreuse-dark"/>
+        <img height=auto align="center" src="https://github-readme-stats-fast.vercel.app/api/pin?username=CarlosNaranjoMx&repo=01_webgl&theme=chartreuse-dark"/>
 </a>
 <a href="https://github.com/CarlosNaranjoMx/WebGLCookTorrance">
-	<img height=auto align="center" src="https://github-readme-stats-fast.vercel.app/api/pin?username=CarlosNaranjoMx&repo=WebGLCookTorrance&theme=chartreuse-dark"/>
+        <img height=auto align="center" src="https://github-readme-stats-fast.vercel.app/api/pin?username=CarlosNaranjoMx&repo=WebGLCookTorrance&theme=chartreuse-dark"/>
 </a>
 
 ## otros repositorios
 <a href="https://github.com/CarlosNaranjoMx/docs">
-	<img height=auto align="center" src="https://github-readme-stats-fast.vercel.app/api/pin?username=CarlosNaranjoMx&repo=docs&theme=chartreuse-dark"/>
+        <img height=auto align="center" src="https://github-readme-stats-fast.vercel.app/api/pin?username=CarlosNaranjoMx&repo=docs&theme=chartreuse-dark"/>
 </a>
 <a href="https://github.com/CarlosNaranjoMx/ProgramacionCSharp">
-	<img height=auto align="center" src="https://github-readme-stats-fast.vercel.app/api/pin?username=CarlosNaranjoMx&repo=ProgramacionCSharp&theme=chartreuse-dark"/>
+        <img height=auto align="center" src="https://github-readme-stats-fast.vercel.app/api/pin?username=CarlosNaranjoMx&repo=ProgramacionCSharp&theme=chartreuse-dark"/>
 </a>
 <a href="https://github.com/CarlosNaranjoMx/python_public">
-	<img height=auto align="center" src="https://github-readme-stats-fast.vercel.app/api/pin?username=CarlosNaranjoMx&repo=python_public&theme=chartreuse-dark"/>
+        <img height=auto align="center" src="https://github-readme-stats-fast.vercel.app/api/pin?username=CarlosNaranjoMx&repo=python_public&theme=chartreuse-dark"/>
 </a>
 <a href="https://github.com/CarlosNaranjoMx/jhipster_windows">
-	<img height=auto align="center" src="https://github-readme-stats-fast.vercel.app/api/pin?username=CarlosNaranjoMx&repo=jhipster_windows&theme=chartreuse-dark"/>
+        <img height=auto align="center" src="https://github-readme-stats-fast.vercel.app/api/pin?username=CarlosNaranjoMx&repo=jhipster_windows&theme=chartreuse-dark"/>
 </a>
 <a href="https://github.com/CarlosNaranjoMx/12_python_files_size">
-	<img height=auto align="center" src="https://github-readme-stats-fast.vercel.app/api/pin?username=CarlosNaranjoMx&repo=12_python_files_size&theme=chartreuse-dark"/>
+        <img height=auto align="center" src="https://github-readme-stats-fast.vercel.app/api/pin?username=CarlosNaranjoMx&repo=12_python_files_size&theme=chartreuse-dark"/>
 </a>
 <a href="https://github.com/CarlosNaranjoMx/CaptureUI">
-	<img height=auto align="center" src="https://github-readme-stats-fast.vercel.app/api/pin?username=CarlosNaranjoMx&repo=CaptureUI&theme=chartreuse-dark"/>
+        <img height=auto align="center" src="https://github-readme-stats-fast.vercel.app/api/pin?username=CarlosNaranjoMx&repo=CaptureUI&theme=chartreuse-dark"/>
+</a>
+<a href="https://github.com/CarlosNaranjoMx/nvidia-monitoring">
+        <img height=auto align="center" src="https://github-readme-stats-fast.vercel.app/api/pin?username=CarlosNaranjoMx&repo=nvidia-monitoring&theme=chartreuse-dark"/>
 </a>
 
 ## Hobbies
