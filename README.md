@@ -42,7 +42,7 @@ pensando en nuevos cambios para esto
  <img src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54">
  <br/>
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
- <img src="https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=black">
+ <img src="https://img.shields.io/badge/css3-1572A6?logo=css3&logoColor=black">
  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white">
  <br/>
  <img src="https://img.shields.io/badge/Haskell-5e5086?logo=haskell&logoColor=white">
@@ -172,6 +172,9 @@ pensando en nuevos cambios para esto
 
 <a href="https://github.com/CarlosNaranjoMx/StickersMaker">
         <img height=auto align="center" src="https://github-readme-stats-fast.vercel.app/api/pin?username=CarlosNaranjoMx&repo=StickersMaker&theme=chartreuse-dark"/>
+</a>
+<a href="https://github.com/CarlosNaranjoMx/convert_mermaid_drawio">
+        <img height=auto align="center" src="https://github-readme-stats-fast.vercel.app/api/pin?username=CarlosNaranjoMx&repo=convert_mermaid_drawio&theme=chartreuse-dark"/>
 </a>
 
 ## otros repositorios
