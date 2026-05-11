@@ -208,7 +208,7 @@ pensando en nuevos cambios para esto
         <img height=auto align="center" src="https://github-readme-stats-fast.vercel.app/api/pin?username=CarlosNaranjoMx&repo=hardware-monitoreo&theme=chartreuse-dark"/>
 </a>
 
-![gpu_temp_c](D:\resources_psycho\resources_github\repos_publicos\hardware\monitoreo\plots\gpu_temp_c.png)
+<img src="img/gpu_temp_c.png" width="350" alt="Imagen 1"/>
 
 ## Hobbies
 - cuenta de dibujos: [instagram](https://www.instagram.com/6dasarata/)
