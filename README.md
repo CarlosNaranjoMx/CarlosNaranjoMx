@@ -204,9 +204,11 @@ pensando en nuevos cambios para esto
 <a href="https://github.com/CarlosNaranjoMx/nvidia-monitoring">
         <img height=auto align="center" src="https://github-readme-stats-fast.vercel.app/api/pin?username=CarlosNaranjoMx&repo=nvidia-monitoring&theme=chartreuse-dark"/>
 </a>
-<a href="https://github.com/CarlosNaranjoMx/hardware">
-        <img height=auto align="center" src="https://github-readme-stats-fast.vercel.app/api/pin?username=CarlosNaranjoMx&repo=hardware&theme=chartreuse-dark"/>
+<a href="https://github.com/CarlosNaranjoMx/hardware-monitoreo">
+        <img height=auto align="center" src="https://github-readme-stats-fast.vercel.app/api/pin?username=CarlosNaranjoMx&repo=hardware-monitoreo&theme=chartreuse-dark"/>
 </a>
+
+![gpu_temp_c](D:\resources_psycho\resources_github\repos_publicos\hardware\monitoreo\plots\gpu_temp_c.png)
 
 ## Hobbies
 - cuenta de dibujos: [instagram](https://www.instagram.com/6dasarata/)
