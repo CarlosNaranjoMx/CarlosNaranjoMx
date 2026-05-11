@@ -204,6 +204,9 @@ pensando en nuevos cambios para esto
 <a href="https://github.com/CarlosNaranjoMx/nvidia-monitoring">
         <img height=auto align="center" src="https://github-readme-stats-fast.vercel.app/api/pin?username=CarlosNaranjoMx&repo=nvidia-monitoring&theme=chartreuse-dark"/>
 </a>
+<a href="https://github.com/CarlosNaranjoMx/hardware">
+        <img height=auto align="center" src="https://github-readme-stats-fast.vercel.app/api/pin?username=CarlosNaranjoMx&repo=hardware&theme=chartreuse-dark"/>
+</a>
 
 ## Hobbies
 - cuenta de dibujos: [instagram](https://www.instagram.com/6dasarata/)
